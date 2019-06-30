@@ -1,4 +1,4 @@
-baseURL = "http://hotch.money/"
+baseURL = "https://hotch.money/"
 languageCode = "en-us"
 title = "Sam Hotchkiss"
 theme = "hugo-coder"
@@ -48,7 +48,7 @@ disqusShortname = "yourdiscussshortname"
     name = "Github"
     icon = "fab fa-github fa-2x"
     weight = 3
-    url = "https://github.com/johndoe/"
+    url = "https://github.com/Hotchmoney/"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin fa-2x"
@@ -56,10 +56,10 @@ disqusShortname = "yourdiscussshortname"
     url = "https://www.linkedin.com/in/sam-hotchkiss/"
 
 # Menu links
-[[menu.main]]
-    name = "About"
-    weight = 1
-    url = "/about/"
+# [[menu.main]]
+#     name = "About"
+#     weight = 1
+#     url = "/about/"
 [[menu.main]]
     name = "Games"
     weight = 2

@@ -1,0 +1,20 @@
+---
+draft: true
+---
+* Zelda Dungeons
+** Branching paths with backtracking
+*** The best dungeons test the player's ability to form a mental map
+**** More old-school RPGs expect players to map the dungeon in a similar way
+** Core loop: find a lock, go get a key, go back to the lock
+*** D&D players will want to pick the lock or break the door down
+*** Some locks are obstacles which require you to find an item
+** Some dungeons are "puzzle boxes", buildings that can be manipulated
+*** Dungeons rotate, fill with water, or otherwise change how they are navigated
+*** Nearly impossible to convey through description or maps
+** Post-Wind Waker, dungeons often have a puzzle motif
+*** Will introduce a mechanic and develop it, a la 3D World (kishotenketsu)
+*** The Witness uses the same puzzle mechanic for the whole game
+**** most puzzles require an understanding of their surroundings to solve
+** Twilight Princess introduces monsters that are easier to kill with the dungeon's item
+** Dungeons include micro-challenges (combat, puzzles) but also a macro-challenge (navigation)
+*** Ask players to think about something bigger than the current room
